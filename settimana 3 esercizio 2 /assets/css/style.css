@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    border: 2px solid black;
+    border-radius: 2px ;
+    padding: 1rem;
+    background-color: rgb(213, 126, 39);
+    text-transform: uppercase;
+}
